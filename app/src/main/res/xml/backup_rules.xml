@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude internal comic library, archives, and temp files from cloud auto-backup -->
+    <exclude domain="file" path="library" />
+    <exclude domain="file" path="archives" />
+    <exclude domain="file" path="temp" />
+    <exclude domain="root" path="library" />
+    <exclude domain="root" path="archives" />
+    <exclude domain="root" path="temp" />
+</full-backup-content>

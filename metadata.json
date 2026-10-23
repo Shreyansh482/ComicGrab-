@@ -1,0 +1,6 @@
+{
+  "name": "ComicGrab",
+  "description": "Your private comic library, webtoon and manga reader, and chapter downloader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
